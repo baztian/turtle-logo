@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="59.658mm" width="125.25mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 443.80165 211.388" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <title id="title4599">Turtle</title>
+ <defs id="defs4">
+  <linearGradient id="linearGradient5631" y2="617.18" gradientUnits="userSpaceOnUse" x2="451.54" gradientTransform="translate(-946.87 -339.82)" y1="658.6" x1="612.15">
+   <stop id="stop4246" stop-color="#26af5f" offset="0"/>
+   <stop id="stop4248" stop-color="#16725f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5633" y2="639.3" gradientUnits="userSpaceOnUse" x2="610.28" gradientTransform="translate(-946.87 -339.82)" y1="737.87" x1="480.01">
+   <stop id="stop4272" stop-color="#1c7762" offset="0"/>
+   <stop id="stop4274" stop-color="#29a75f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5635" y2="668.17" gradientUnits="userSpaceOnUse" x2="662.86" gradientTransform="translate(-946.87 -339.82)" y1="668.17" x1="544.29">
+   <stop id="stop4280" stop-color="#28b560" offset="0"/>
+   <stop id="stop4282" stop-color="#9be6a4" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4430" y2="629.55" gradientUnits="userSpaceOnUse" x2="755.96" gradientTransform="translate(-948.3 -339.1)" y1="629.55" x1="624.27">
+   <stop id="stop4260" stop-color="#99de6c" offset="0"/>
+   <stop id="stop4262" stop-color="#b2e973" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Turtle</dc:title>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Bastian Bowe</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-150.15 -413.11)">
+  <g id="g5593" transform="matrix(.83724 0 0 .83724 685.38 239.19)">
+   <rect id="rect5595" height="252.48" width="530.08" y="207.73" x="-639.29" fill="#fff"/>
+   <g fill-rule="evenodd">
+    <path id="path5615" d="m-326.47 277.66s42.862 28.721 44.6 66.318c-12.048 4.2672-31.403 12.959-38.048 14.695l2.5-9.0242-84.645 25.246-88.036 13.63 17.411-20.596-18.08-15.209-25.223-13.78z" fill="#1b1e3b"/>
+    <path id="path5599" d="m-515.54 338.79s90.918-101.51 188.9-60.609c0 0-65.66 27.274-101.02 39.396" fill="url(#linearGradient5631)"/>
+    <path id="path5603" d="m-341.79 286.26c9.0914 14.142 25.254 24.244-29.294 64.65s-123.24 65.66-134.35 64.65c-11.112-1.0102 44.965-53.426 90.373-87.465s75.214-42.384 73.272-41.835z" fill="url(#linearGradient5633)"/>
+    <path id="path5605" d="m-324.01 281.83c22.212 14.855 39.643 47.679 39.643 47.679s-73.214 51.607-118.21 45.179c97.143-60.714 68.571-82.143 68.571-82.143s5.9391-13.43 10-10.714z" fill="url(#linearGradient5635)"/>
+    <path id="path5607" d="m-374.73 299.69-97.143 73.571s8.6714-7.8348-37.143-34.286c117.14-25.714 134.29-39.286 134.29-39.286z" fill="#0f5261"/>
+    <path id="path5609" d="m-491.16 352.55-22.143-12.143-44.286 16.429s27.143 2.1428 66.429-4.2858z" fill="#0e5060"/>
+    <path id="path5611" d="m-473.36 368.84-16.668 19.446 17.551-14.395c-0.0891-3.9399-0.88389-5.0508-0.88389-5.0508z" fill="#21545b"/>
+    <path id="path5613" d="m-514.73 338.26s34.821-37.678 74.643-53.393c-36.193 26.041-46.296 46.306-46.296 46.306z" fill="#084361"/>
+    <path id="path5617" d="m-347.49 286.32c-52.035-6.9899-76.571 7.0915-115.75 10.102 0 0 65.895-47.304 137.97-18.183z" fill="#8cde72"/>
+    <path id="path5601" d="m-281.56 343.34c3.5355 23.991 1.389 24.749-4.672 32.83-6.0609 8.0813-34.345 40.406-57.579 40.406s-3.0305-24.244-3.0305-24.244 28.032-29.042 27.022-34.093c13.132-5.3033 38.26-14.9 38.26-14.9z" fill="#084562"/>
+   </g>
+   <g id="g5275-75" transform="translate(.90790 -3.3821)">
+    <g fill-rule="evenodd">
+     <path id="path5277-3" d="m-241.07 290.31 13.571 6.9643s0.80759 9.6438-4.1964 9.9107c-5.004 0.2668-9.375-16.875-9.375-16.875z" fill="#1c7762"/>
+     <path id="path5279-5" d="m-326.53 281.99c23.234 1.0101 47.957-14.203 47.957-14.203s25.247-10.968 45.709-15.657c9.4586-0.7446 26.049 10.847 29.042 13.637 4.0406 4.0406 14.058 13.659 10.859 18.688-2.1852 3.4346-5.8084 4.7982-8.7126 7.4499-2.2573 2.061-10.243 10.054-13.197 9.2736-29.753-7.8557-20.825-12.647-25.706-13.055-0.777 0.3995-1.0974 8.4022 6.8279 14.014 2.5046 1.7735 5.8326 3.3082 10.23 4.2887 11.989 2.6733-46.972 18.94-46.972 18.94l-16.224 4.1631z" fill="url(#linearGradient4430)"/>
+     <path id="path5283-6" d="m-242.02 257.85s13.666-0.5405 19.951 4.5457c4.4405 3.5935-3.7881-10.102-3.7881-10.102z" fill="#aee772"/>
+    </g>
+    <ellipse id="ellipse4541-3-2" rx="8.5863" ry="6.0609" cy="263.39" cx="-229.25" fill="#182037"/>
+    <path id="path4543-6-9" d="m-236.05 258.78s9.849-2.7779 14.9 3.5355c3.6829 4.6037-3.7881-7.8287-3.7881-7.8287z" fill-rule="evenodd" fill="#aee772"/>
+   </g>
+  </g>
+ </g>
+</svg>
